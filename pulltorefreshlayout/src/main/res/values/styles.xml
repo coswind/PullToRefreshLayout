@@ -1,0 +1,5 @@
+<resources>
+    <style name="Widget.ProgressBar.PullToRefresh" parent="SmoothProgressBar">
+        <item name="android:minHeight">4dp</item>
+    </style>
+</resources>
