@@ -5,7 +5,7 @@ ListView的PullToRefreshLayout，支持上拉刷新和下拉刷新.
 
 ##APK
 
-[PullToRefreshLayout.apk](https://raw.githubusercontent.com/coswind/PullToRefreshLayout/master/pulltorefreshlayout/build/apk/pulltorefreshlayout-debug-unaligned.apk)
+[PullToRefreshLayout.apk](https://raw.githubusercontent.com/coswind/PullToRefreshLayout/master/pulltorefresh.apk)
 
 ##ScreenShot
 
