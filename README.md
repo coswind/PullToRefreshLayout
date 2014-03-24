@@ -9,6 +9,6 @@ ListView的PullToRefreshLayout，支持上拉刷新和下拉刷新.
 
 ##ScreenShot
 
-![PullUp](https://raw.githubusercontent.com/coswind/PullToRefreshLayout/master/2014-03-24-144237_530x800_scrot.png)
+![PullUp](https://raw.githubusercontent.com/coswind/PullToRefreshLayout/master/2014-03-24-144220_530x800_scrot.png)
 
 ![PullDown](https://raw.githubusercontent.com/coswind/PullToRefreshLayout/master/2014-03-24-144237_530x800_scrot.png)
